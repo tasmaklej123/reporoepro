@@ -2,8 +2,8 @@
 Application uses Weather API, Nokia Display and USART handled by STM32 Discovery. Main idea of this project is to check weather in all location in the world.
 
 # Tools
-System Workbench for STM32
-IntelliJ IDEA
+- System Workbench for STM32
+- IntelliJ IDEA
 
 
 # How to run:
