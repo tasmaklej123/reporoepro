@@ -9,23 +9,19 @@ IntelliJ IDEA
 # How to run:
 
 Connect :
-Nokia display
+
+- Nokia display
+
 RES  <-> PC15
-
-SCE  <-> PC13	
-
-DC   <-> PC14	
-
-D/IN <-> PC3	
-
-CLK  <-> PB10	
-
-+V   <-> 3.3V	
-
+SCE  <-> PC13
+DC   <-> PC14
+D/IN <-> PC3
+CLK  <-> PB10
++V   <-> 3.3V
 GND  <-> GND
 
 
-USART
+- USART
 TxD -> PC11
 RxD -> PC10
 GND -> GND
