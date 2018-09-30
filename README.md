@@ -10,13 +10,20 @@ IntelliJ IDEA
 
 Connect :
 Nokia display
-RES  <-> PC15	
+RES  <-> PC15
+
 SCE  <-> PC13	
+
 DC   <-> PC14	
+
 D/IN <-> PC3	
+
 CLK  <-> PB10	
+
 +V   <-> 3.3V	
+
 GND  <-> GND
+
 
 USART
 TxD -> PC11
